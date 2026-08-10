@@ -1,34 +1,28 @@
-<h1 align="center">Hi 👋! My name is Fadhil</h1>
+<h1 align="left">Hello World! I'm Fadhil Faith 🚀</h1>
 
-<p align="center">
+<h3 align="left">Software Engineering Student | Web & Desktop Developer</h3>
+
+<p align="left">
   <a href="https://github.com/fadhilfaith48">
-    <img src="https://img.shields.io/badge/Fadhil%20Faith-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fadhil Faith Badge" />
+    <img src="https://img.shields.io/badge/GitHub-Fadhil%20Faith-181717?style=flat-square&logo=github&logoColor=white" alt="Fadhil Faith Badge" />
   </a>
+  <img src="https://img.shields.io/badge/School-SMKN%201%20MEJAYAN-0077B5?style=flat-square&logo=googleclassroom&logoColor=white" alt="School Badge" />
+  <img src="https://img.shields.io/badge/Class-XII%20RPL%201-orange?style=flat-square&logo=bookstack&logoColor=white" alt="Class Badge" />
+  <img src="https://img.shields.io/badge/Location-Madiun,%20ID-DC143C?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SMKN%201%20MEJAYAN-0077B5?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="School Badge" />
-  <img src="https://img.shields.io/badge/Kelas%2012-RPL%201-orange?style=for-the-badge&logo=bookstack&logoColor=white" alt="Class Badge" />
-  <img src="https://img.shields.io/badge/Madiun,%20Indonesia-DC143C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+<br/>
+
+<p align="left">
+  🔭 <b>Currently focusing on:</b> Building Progressive Web Apps (PWA) and robust backend systems.<br/>
+  🌱 <b>Tech Stack I love:</b> PHP, Laravel, MySQL, and crafting desktop layouts with JavaFX.<br/>
+  🎯 <b>Current Goal:</b> Preparing a solid portfolio for student internship (PKL) applications.<br/>
+  ⚡ <b>Fun Fact:</b> I enjoy transforming complex logic into clean, functional applications!
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev Badge" />
-  <img src="https://img.shields.io/badge/Backend%20Development-2088FF?style=for-the-badge&logo=php&logoColor=white" alt="Backend Dev Badge" />
+<p align="left">
+  <i>"Siswa kelas 12 jurusan Rekayasa Perangkat Lunak. Sangat antusias dalam merancang database, membangun sistem backend yang stabil, serta bereksperimen dengan berbagai antarmuka aplikasi."</i>
 </p>
-
-<p align="center">
-  <i>An 11th-grade Software Engineering student at SMKN 1 Mejayan,<br/>
-  passionate about Full-Stack Web Development & Backend —<br/>
-  building projects, learning by doing, and growing every day.</i>
-</p>
-
-<p align="center">
-  <i>Siswa kelas 12 jurusan RPL 1 di SMKN 1 Mejayan,<br/>
-  tertarik di bidang Web Development & Backend —<br/>
-  terus belajar, berkarya, dan berkembang setiap harinya.</i>
-</p>
-
 ###
 
 <div align="center">

@@ -1,28 +1,29 @@
-<h1 align="left">Hello World! I'm Fadhil Faith 🚀</h1>
+<h2 data-importer="text" align="left">Hi 👋! My name is Fadhil and I'm a Software Engineer from Madiun</h2>
 
-<h3 align="left">Software Engineering Student | Web & Desktop Developer</h3>
+###
 
-<p align="left">
-  <a href="https://github.com/fadhilfaith48">
-    <img src="https://img.shields.io/badge/GitHub-Fadhil%20Faith-181717?style=flat-square&logo=github&logoColor=white" alt="Fadhil Faith Badge" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=fadhilfaith48&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilfaith48&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/fadhil-faith/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/badge/School-SMKN%201%20MEJAYAN-0077B5?style=flat-square&logo=googleclassroom&logoColor=white" alt="School Badge" />
-  <img src="https://img.shields.io/badge/Class-XII%20RPL%201-orange?style=flat-square&logo=bookstack&logoColor=white" alt="Class Badge" />
-  <img src="https://img.shields.io/badge/Location-Madiun,%20ID-DC143C?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
-</p>
-
-<br/>
-
-<p align="left">
-  🔭 <b>Currently focusing on:</b> Building Progressive Web Apps (PWA) and robust backend systems.<br/>
-  🌱 <b>Tech Stack I love:</b> PHP, Laravel, MySQL, and crafting desktop layouts with JavaFX.<br/>
-  🎯 <b>Current Goal:</b> Preparing a solid portfolio for student internship (PKL) applications.<br/>
-  ⚡ <b>Fun Fact:</b> I enjoy transforming complex logic into clean, functional applications!
-</p>
-
-<p align="left">
-  <i>"Siswa kelas 12 jurusan Rekayasa Perangkat Lunak. Sangat antusias dalam merancang database, membangun sistem backend yang stabil, serta bereksperimen dengan berbagai antarmuka aplikasi."</i>
-</p>
+  <!-- Tambahkan link Discord kamu pada href di bawah ini -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/_fadhilfaith/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.fadhilfaith.my.id/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=my.id&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="itch logo"  />
+  </a>
+</div>
 
 ###
 
@@ -52,21 +53,8 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat-square" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat-square" height="35" alt="instagram logo"  />
-  <a href="https://www.fadhilfaith.my.id/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=my.id&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=flat-square" height="35" alt="itch logo"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadhilfaith48/fadhilfaith48/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadhilfaith48/fadhilfaith48/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/fadhilfaith48/fadhilfaith48/output/github-contribution-grid-snake.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadhilfaith48/fadhilfaith48/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadhilfaith48/fadhilfaith48/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fadhilfaith48/fadhilfaith48/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
-
-

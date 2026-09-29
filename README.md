@@ -15,7 +15,7 @@
 
 <p align="left">
   🔭 <b>Currently focusing on:</b> Building Progressive Web Apps (PWA) and robust backend systems.<br/>
-  🌱 <b>Tech Stack I love:</b> PHP, Laravel, MySQL, and crafting desktop layouts with JavaFX.<br/>
+  🌱 <b>Tech Stack I love:</b> PHP, Java, Python, Laravel, MySQL, PostgreSql and crafting desktop layouts with JavaFX.<br/>
   🎯 <b>Current Goal:</b> Preparing a solid portfolio for student internship (PKL) applications.<br/>
   ⚡ <b>Fun Fact:</b> I enjoy transforming complex logic into clean, functional applications!
 </p>

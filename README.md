@@ -35,15 +35,9 @@
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/fadhil-faith/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat-square" height="35" alt="discord logo"  />
-  </a>
+
   <a href="https://www.instagram.com/_fadhilfaith/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat-square" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.fadhilfaith.my.id/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=my.id&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=flat-square" height="35" alt="itch logo"  />
   </a>
 </div>
 
@@ -98,7 +92,7 @@
       </td>
       <td>
         <a href="https://market-news-roan.vercel.app/">
-          <img src="https://vercel.app" alt="Marker News" />
+          <img src="https://vercel.app" alt="Markert News" />
         </a>
       </td>
     </tr>

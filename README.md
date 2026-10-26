@@ -82,13 +82,13 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com">
+        <a href="https://dineflow-pos-tau.vercel.app/login">
           <img src="https://vercel.app" alt="DineFlow POS" />
         </a>
       </td>
       <td>
-        <a href="https://github.com">
-          <img src="https://vercel.app" alt="Royal Cafe" />
+        <a href="[https://github.com](https://market-news-roan.vercel.app/)">
+          <img src="https://vercel.app" alt="Marker News" />
         </a>
       </td>
     </tr>

@@ -82,6 +82,11 @@
   <table border="0">
     <tr>
       <td>
+        <a href="https://www.fadhilfaith.my.id/">
+          <img src="https://vercel.app" alt="My Porfolio" />
+        </a>
+      </td>
+      <td>
         <a href="https://dineflow-pos-tau.vercel.app/login">
           <img src="https://vercel.app" alt="DineFlow POS" />
         </a>

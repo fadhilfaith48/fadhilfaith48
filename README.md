@@ -75,7 +75,7 @@
 
 ###
 
-### 🚀 Highlight Projects (Featured for PKL)
+### 🚀 Highlight Projects 
 <!-- Bagian ini akan membuat penyeleksi PKL langsung melihat hasil karyamu yang relevan -->
 
 <div align="left">
@@ -84,6 +84,11 @@
       <td>
         <a href="https://dineflow-pos-tau.vercel.app/login">
           <img src="https://vercel.app" alt="DineFlow POS" />
+        </a>
+      </td>
+      <td>
+        <a href="https://madiun-sigap.vercel.app/">
+          <img src="https://vercel.app" alt="Madiun Sigap" />
         </a>
       </td>
       <td>

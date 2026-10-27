@@ -92,7 +92,7 @@
       </td>
       <td>
         <a href="https://market-news-roan.vercel.app/">
-          <img src="https://vercel.app" alt="Markert News" />
+          <img src="https://market-news-roan.vercel.app" alt="Markert News" />
         </a>
       </td>
     </tr>

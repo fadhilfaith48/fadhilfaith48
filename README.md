@@ -94,9 +94,10 @@
         <a href="https://market-news-roan.vercel.app/">
           <img src="https://market-news-roan.vercel.app" alt="Markert News" />
         </a>
-         <a href=" https://inklu-kids-ai.vercel.app/">
-          <img src=" https://inklu-kids-ai.vercel.app" alt="InkluKidsAi" />
-        </a>
+      </td>
+      <td>
+       <a href=" https://inklu-kids-ai.vercel.app/"> 
+         <img src=" https://inklu-kids-ai.vercel.app" alt="InkluKidsAi" /> </a>
       </td>
     </tr>
   </table>
